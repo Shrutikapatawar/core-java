@@ -7,9 +7,11 @@ public class Book1 {
 		b.setTitle("It Ends with Us");
 		b.setAuthor("Colleen Hoover");
 		b.setPrice(500);
+		
 		System.out.println(b.getBookId());
 		System.out.println(b.getTitle());
 		System.out.println(b.getAuthor());
 		System.out.println(b.getPrice());
 	}
 }
+
